@@ -1,0 +1,116 @@
+
+
+{
+	"home": [{
+		"id": 1,
+            "location": "Mira Oasis 3, Mira Oasis, Dubai",
+            "bed": "3 Beds",
+            "bath": "3 Baths",
+            "extra": "None",
+            "image": "/images/pic1.jpg",
+            "price": "2,200,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2021/11/21/corner-plot-close-to-pool-park-study-room-2-099/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_5%22%7D&funnel_subsection=LPV_Pos_FA_5&page=1"
+                    },
+                    {
+            "id": 2,
+            "location": "District One Mansions, District One",
+            "bed": "7 Beds",
+            "bath": "9 Baths",
+            "extra": "Private Pool",
+            "image": "/images/pic2.jpg",
+            "price": "48,000,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2021/9/2/full-lagoon-amp-beach-access-landscaped-ma-2-669/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_1%22%7D&funnel_subsection=LPV_Pos_FA_1&page=1"
+                     },
+                    {
+            "id": 3,
+            "location": "The Magnolias, Yas Acres, Dubai",
+            "bed": "3 Beds",
+            "bath": "4 Baths",
+            "extra": "Big Playground",
+            "image": "/images/pic3.jpg",
+            "price": "3,496,165",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2021/9/21/3-br-villa-yas-acres-amazing-deal-3-898/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_2%22%7D&funnel_subsection=LPV_Pos_FA_2&page=1"
+                    },
+                    {
+            "id": 4,
+            "location": "Bella Casa, Serena, Dubai",
+            "bed": "3 Beds",
+            "bath": "4 Baths",
+            "extra": "None",
+            "image": "/images/pic4.jpg",
+            "price": "1,625,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2022/1/5/three-br-maid-villa-with-a-private-garden--2-608/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_6%22%7D&funnel_subsection=LPV_Pos_FA_6&page=1"
+                        },
+                        {
+            "id": 5,
+            "name": "Alaya",
+            "location": "Falcon City of Wonders, Dubailand, Dubai",
+            "bed": "4 Beds",
+            "bath": "5 Baths",
+            "extra": "None",
+            "image": "/images/pic5.jpg",
+            "price": "2,850,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2021/10/21/2-bedroom-townhouse-aegean-vacant-on-trans-2-159/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_1%22%7D&funnel_subsection=LPV_Pos_FA_1&page=1"
+                            },
+                            {
+            "id": 6,
+            "location": "The Meadows 9, The Meadows, Dubai",
+            "bed": "4 Beds",
+            "bath": "4 Baths",
+            "extra": "None",
+            "image": "/images/pic6.jpg",
+            "price": "4,990,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2022/1/6/type-6-owner-occupied-private-pool-2-458/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_0%22%7D&carouselIndex=1&funnel_subsection=LPV_Pos_FA_0&page=1"
+                                },
+                                {
+            "id": 7,
+            "location": "Hartland Gardenia, Sobha Hartland, Dubai",
+            "bed": "5 Beds ",
+            "bath": "7 Baths",
+            "extra": "Private Pool",
+            "image": "/images/pic7.jpg",
+            "price": "18,025,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2021/4/12/elegantly-decorated-home-with-iconic-views-2-830/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_12%22%7D&funnel_subsection=LPV_Pos_FA_12&page=1"
+                                },
+                                {
+            "id": 8,
+            "location": "Claret, DAMAC Hills 2, Dubai",
+            "bed": "4 Beds",
+            "bath": "4 Baths",
+            "extra": "None",
+            "image": "/images/pic8.jpg",
+            "price": "2,500,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2022/1/28/investor-deal-urgent-for-sale-ready-to-mov-2-550/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_13%22%7D&funnel_subsection=LPV_Pos_FA_13&page=1"
+                                },
+                                {
+            "id": 9,
+            "location": "Victory Heights, Dubai Sports City, Dubai",
+            "bed": "5 Beds",
+            "bath": "5 Baths",
+            "extra": "Private Pool || Amazing Golf View",
+            "image": "/images/pic9.jpg",
+            "price": "8,500,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2021/12/8/upgraded-5-Beds-b-type-amazing-golf-view-2-029/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_0%22%7D&funnel_subsection=LPV_Pos_FA_0&page=1"
+                                },
+                                {
+            "id": 10,
+            "location": "Alaya, Tilal Al Ghaf, Dubai",
+            "bed": "6 Beds",
+            "bath": "9 Baths",
+            "extra": "Private Pool",
+            "image": "/images/pic10.jpg",
+            "price": "14,075,000",
+            "price_unit": "AED",
+            "url": "https://uae.dubizzle.com/property-for-sale/residential/villahouse/2022/2/7/luxurious-villa-on-beach-6br-grand-villa-l-2-994/?tracking_info=%7B%22userPath%22%3A%22LPV_Pos_FA_4%22%7D&carouselIndex=1&funnel_subsection=LPV_Pos_FA_4&page=1"
+                                }
+              ]
+    }
